@@ -2,5 +2,3 @@ theme: jekyll-theme-minimal
 title: Foundry IoT
 email: cameronmorrow365@gmail.com
 description: Custom Industrial IoT Solutions
-baseurl: "" # Leave blank for GitHub Pages
-url: "https://foundry-iot.github.io" # Update with your GitHub Pages URL
