@@ -9,7 +9,7 @@ At Foundry IoT, we specialize in building custom industrial IoT solutions. Wheth
 # Contact Us
 Reach out for a custom quote. Let’s build something extraordinary together!
 
-<form id="contact-form" action="https://formsubmit.co/cameronmorrow365@gmail.com" method="POST">
+<form id="contact-form" action="https://formsubmit.co/ce5ff85b0e946811e7a6299e21a6128c" method="POST">
   <label for="name">Your Name</label>
   <input type="text" id="name" name="name" required>
   
