@@ -1,20 +1,12 @@
 body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
+
 }
 
 header {
   background: #0078D7;
   color: #fff;
-  padding: 20px;
-  text-align: center;
 }
 
-main {
-  padding: 20px;
-}
 
 form {
   max-width: 600px;
@@ -33,11 +25,4 @@ form button {
   color: white;
   border: none;
   cursor: pointer;
-}
-
-footer {
-  text-align: center;
-  background: #333;
-  color: white;
-  padding: 10px;
 }
